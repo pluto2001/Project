@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 77,
+          "version": 78,
           "minHeight": 1292,
           "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
@@ -83,7 +83,7 @@
                       "dynamicBindingPathList": [],
                       "defaultImage": "https://assets.appsmith.com/widgets/default.png",
                       "key": "hqjw4urgwk",
-                      "image": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.15752-9/336583352_614116063455771_6983630435806267744_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=RFplZpISoQYAX9YR76D&_nc_ht=scontent-sin6-1.xx&oh=03_AdQ6A65ky36zE6tKWjW3jDwAcpxgdAPRbeEc2ZW6nGzhlg&oe=643F8488",
+                      "image": "https://scontent.fbkk12-5.fna.fbcdn.net/v/t1.15752-9/336583352_614116063455771_6983630435806267744_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEK0SO1aD2abGgaagLwFjVN7oH1dpuVsqLugfV2m5Wyoj3AsyG9_AFm7LjesTXUTDehBSdr1VunewPlWn04lIzF&_nc_ohc=biR_L0SlY28AX9F-AL0&_nc_ht=scontent.fbkk12-5.fna&oh=03_AdSUViyv8teKCKdNMZNAwIKaOlRkYqAhqpDpq6TZMA0L3A&oe=64816F88",
                       "isDeprecated": false,
                       "rightColumn": 32,
                       "objectFit": "cover",
@@ -116,7 +116,7 @@
                         }
                       ],
                       "labelStyle": "BOLD",
-                      "inputType": "TEXT",
+                      "inputType": "EMAIL",
                       "placeholderText": "",
                       "isDisabled": false,
                       "validation": "",
@@ -131,7 +131,7 @@
                       "regex": "",
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "originalBottomRow": 35,
-                      "widgetName": "Input1",
+                      "widgetName": "register_email",
                       "displayName": "Input",
                       "searchTags": [
                         "form",
@@ -183,7 +183,7 @@
                         }
                       ],
                       "labelStyle": "BOLD",
-                      "inputType": "TEXT",
+                      "inputType": "PASSWORD",
                       "placeholderText": "",
                       "isDisabled": false,
                       "validation": "",
@@ -198,7 +198,7 @@
                       "regex": "",
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "originalBottomRow": 44,
-                      "widgetName": "Input1Copy",
+                      "widgetName": "register_pass",
                       "displayName": "Input",
                       "searchTags": [
                         "form",
@@ -250,7 +250,7 @@
                         }
                       ],
                       "labelStyle": "BOLD",
-                      "inputType": "TEXT",
+                      "inputType": "PASSWORD",
                       "placeholderText": "",
                       "isDisabled": false,
                       "validation": "",
@@ -265,7 +265,7 @@
                       "regex": "",
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "originalBottomRow": 44,
-                      "widgetName": "Input1CopyCopy",
+                      "widgetName": "register_conpass",
                       "displayName": "Input",
                       "searchTags": [
                         "form",
